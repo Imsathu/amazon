@@ -1,0 +1,152 @@
+.vertical-bar{
+    
+    height: 350px;
+    background-color:rgb(223, 222, 222);
+}
+.vertical-box{
+    width:1460px;
+    height: 340px;
+    background-color: white;
+    margin-left: 20px; 
+    position: relative;
+}
+.head-text{
+    margin-left: 20px;
+    padding-top: 30px;
+    font-size: 21px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.vr-box1{
+    width: 240px;
+    height: 200px;
+    background-color: rgba(223, 222, 222,.2);
+    margin-left: 20px;
+    margin-top: 10px;
+    position: absolute;
+    display: flex;
+   
+
+}
+.vr-box1 img
+{
+    width: 180px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.vr-box2{
+    width: 240px;
+    height: 200px;
+    background-color: rgba(223, 222, 222,.2);
+    margin-left: 270px;
+    margin-top: 10px;
+    position: absolute;
+}
+.vr-box2 img
+{
+    width: 220px;
+    height: 180px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.vr-box3{
+    width: 240px;
+    height: 200px;
+    background-color: rgba(223, 222, 222,.2);
+    margin-left: 520px;
+    margin-top: 10px;
+    position: absolute;
+}
+.vr-box3 img
+{
+    width: 160px;
+    height: 180px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.vr-box4{
+    width: 240px;
+    height: 200px;
+    background-color: rgba(223, 222, 222,.2);
+    margin-left: 770px;
+    margin-top: 10px;
+    position: absolute;
+}
+.vr-box4 img
+{
+    width: 140px;
+    height: 180px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.vr-box5{
+    width: 240px;
+    height: 200px;
+    background-color: rgba(223, 222, 222,.2);
+    margin-left: 1020px;
+    margin-top: 10px;
+    position: absolute;
+}
+.vr-box5 img
+{
+    width: 220px;
+    height: 180px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.vr-box6{
+    width: 170px;
+    height: 200px;
+    background-color: rgba(223, 222, 222,.2);
+    margin-left: 1270px;
+    margin-top: 10px;
+    position: absolute;
+}
+.vr-box6 img
+{
+    width: 180px;
+    height: 180px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.vr-box-offer{
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    bottom: -40px;
+}
+.vr-box-desc{
+    
+    width: 150px;
+    height: 15px;
+    position: absolute;
+    bottom: -55px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.offer-back1{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+    background-color: rgb(204,12,57);
+    width:fit-content;
+    border-radius: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 0px;
+}
+.primedaydeal1{
+   
+    position: absolute;
+    bottom: 10px;
+    left: 100px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgb(204,12,57)
+}

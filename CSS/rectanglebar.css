@@ -1,0 +1,112 @@
+.product-rectangle-bar{
+    background-color:rgb(223, 222, 222);
+    height: 450px;
+    position: relative;
+
+}
+.product-rectangle-bar img{
+    width: 150px;
+    height: 100px;
+}
+
+
+.rb-vr1
+
+{
+ height: 420px;
+ background-color:rgb(255,255,255);
+ width: 350px;
+ position: absolute;
+ margin-left: 20px;
+ margin-top: 15px;
+}
+.vb-text-main{
+font-size: 21px;
+font-weight: 700;
+font-family: Arial, Helvetica, sans-serif;
+width: 310px;
+height: 50px;
+margin-top: 20px;
+margin-left: 20px;
+position: absolute;
+}
+.vb-img1{
+    height: 100px;
+    width: 150px;
+    
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 85px;
+}
+.vb-img1-text{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    height: 40px;
+    width: 150px;
+    margin-left: 20px;
+}
+.vb-img2-text{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    height: 40px;
+    width: 150px;
+    margin-left: 180px;
+}
+.see-more{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(0,113,133);
+}
+.vb-img2{
+    height: 100px;
+    width: 150px;
+    
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 45px;
+}
+.vb-img3{
+    height: 100px;
+    width: 150px;
+    
+    margin-left: 180px;
+    margin-right: 10px;
+    margin-top: -245px;
+}
+.vb-img4{
+    height: 100px;
+    width: 150px;
+    
+    margin-left: 180px;
+    margin-right: 10px;
+    margin-top: 45px;
+}
+.rb-vr2{
+    height: 420px;
+    background-color:rgb(255,255,255);
+    width: 350px;
+    position: absolute;
+    margin-left: 390px;
+    margin-top: 15px;
+}
+.rb-vr3{
+    height: 420px;
+    background-color:rgb(255,255,255);
+    width: 350px;
+    position: absolute;
+    margin-left: 760px;
+    margin-top: 15px;
+}
+.rb-vr4{
+    height: 420px;
+    background-color:rgb(255,255,255);
+    width: 350px;
+    position: absolute;
+    margin-left: 1130px;
+    margin-top: 15px;
+}

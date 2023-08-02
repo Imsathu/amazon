@@ -1,0 +1,196 @@
+.footer{
+    background-color:rgb(15,15,17);
+    margin-left: -10px;
+    height: 720px;
+    margin-right: -8px;
+    
+
+}
+.back-to-top{
+    background-color:rgb(50, 67, 87);
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.nav-bar{
+    background-color: #232F3E;
+    height: 445px;
+    
+    
+}
+.countries{
+  
+   border-color: rgb(58, 69, 83);
+   width: 1521px;
+   margin-top: 300px;
+   position: absolute;
+   background-color: #232F3E;
+}
+.about-us{
+    display:table-cell;
+    height: 250px;
+    width: 136px;
+    vertical-align: top;
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+.footerhead{
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding-bottom: 6px;
+    
+}
+.footercontent{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-top: 8px;
+    
+}
+.connect-us{
+    display:table-cell;
+    height: 250px;
+    width: 136px;
+    vertical-align: top;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 20px;
+}
+.money-us{
+    display:table-cell;
+    height: 250px;
+    width: 200px;
+    vertical-align: top;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 20px;
+}
+.help{
+    display:table-cell;
+    height: 250px;
+    width: 170px;
+    vertical-align: top;
+    position: absolute;
+    margin-left: 1004px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+.countries{
+    width: 60%;
+    height: 150px;
+    
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    margin-top: 250px;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
+.countries-head{
+    width:300px;
+    height: 50px;
+    
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+.footer-logo img{
+    width: 100px;
+    height: 100px;
+}
+.footer-dropdown{
+
+}
+.countries-title{
+    width:100%;
+    height: 50px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    align-content: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0px;
+    margin-bottom: 20px;
+    color: white;
+}
+.hrlast1{
+    width: 167%;
+    position: absolute;
+    margin-bottom: 100px;
+       
+}
+.end{
+    position: absolute;
+    width:900px;
+    height: 200px;
+  
+    margin-top: 453px;
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.end-col1,
+.end-col2,
+.end-col3,
+.end-col4,
+.end-col5
+{
+    width: 100px;
+    height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.end-col1-row1,
+.end-col1-row2,
+.end-col2-row1,
+.end-col2-row2,
+.end-col3-row1,
+.end-col3-row2,
+.end-col4-row1,
+.end-col4-row2,
+.end-col5-row1,
+.end-col5-row2
+{
+    width: 100%;
+    height: 45%;
+    
+}
+.endhead{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+.endcontent{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}

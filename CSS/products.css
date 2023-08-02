@@ -1,0 +1,270 @@
+.products{
+    height: 1050px;
+   
+    position: fixed;
+    position: relative;
+    z-index: 0;
+    
+}
+.hr1{
+    width:242px;
+    border-top: .8px;
+    border-left: 0px;
+    border-right: .8px;
+    border-bottom: 0px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid; 
+    height: 1050px;
+    position: absolute;
+    
+}
+.hr2{
+    width:315px;
+    border-width: .8px;
+    border-left: 0px;
+    border-right: .8px;
+    border-bottom: .8px;
+    border-top:.8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 1050px;
+    right: 945px;
+    position: absolute;
+    
+}
+.hr3{
+    width:315px;
+    border-width: .8px;
+    border-top: .8px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 1050px;
+    right:630px ;
+    position: absolute;
+}
+.hr4{
+    width:315px;
+    border-width: .8px;
+    border-top: .8px;
+    border-right: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 1050px;
+    right: 315px;
+    position: absolute;
+}
+.hr5{
+    width:315px;
+    border-width: .8px;
+    border-top: .8px;
+    border-left: 0px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 1050px;
+    right: 0;
+    position: absolute;
+}
+.hr2-vr1{
+    width: 315px;
+    border-width: .8px; 
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: .8px;
+    border-top: 0px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+}
+.hr2-vr2{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 350px;
+    
+    
+}
+.hr2-vr3{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 700px;
+}
+.hr3-vr1{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: .8px;
+    border-top: 0px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+}
+.hr3-vr2{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 350px;
+}
+.hr3-vr3{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 700px;
+}
+.hr4-vr1{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: .8px;
+    border-top: 0px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+}
+.hr4-vr2{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 350px;
+}
+.hr4-vr3{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 700px;
+}
+.hr5-vr1{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: .8px;
+    border-top: 0px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+}
+.hr5-vr2{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 350px;
+}
+.hr5-vr3{
+    width: 315px;
+    border-width: .8px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: .8px;
+    border-color: rgba(0,0,0,.20);
+    border-style: solid;
+    height: 350px;
+    position: absolute;
+    margin-top: 700px;
+}
+.img-div
+
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+}
+.offer-back{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+    background-color: rgb(204,12,57);
+    width:fit-content;
+    border-radius: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 25px;
+}
+.primedaydeal{
+   
+    position: absolute;
+    bottom: 55px;
+    left: 130px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgb(204,12,57)
+}
+.img-desc
+{
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    margin-right: 25px;
+}
+
+
+
+
+
+
